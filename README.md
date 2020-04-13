@@ -6,8 +6,8 @@ Pixel Draw is a very simple and intuitive tool for draw your pixel arts and shar
 - setup colors that you will use
 - start pixel art and just draw
 
-### Technical information
-#### Languages used
+
+### Languages used
 - Java Script
 - PHP
 - CSS
